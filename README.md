@@ -20,7 +20,7 @@ Smart home set up
 
 ### webOS TV
 - https://github.com/merdok/homebridge-webos-tv#readme
-  -Connect TV for advacned settings control
+  - Connect TV for advacned settings control
 
 ### Homebridge TAPO Camera
 - https://github.com/kopiro/homebridge-tapo-camera#readme
